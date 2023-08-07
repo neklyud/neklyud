@@ -7,7 +7,7 @@
 * Email: [neklyudov.semen97@gmail.com](mailto:neklyudov.semen97@gmail.com)
 * GitHub: [github.com/neklyud](https://github.com/neklyud)
 * Telegram: [@neklyuds](https://t.me/neklyuds)
-* Location: [Moscow, Russia](https://en.wikipedia.org/wiki/Moscow)
+* Location: [Remote, GMT+3]
 
 ## __Summary__
 
