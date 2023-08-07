@@ -21,10 +21,13 @@ Python developer with background in blockchain, machine learning and big data wi
 
         * Development blockchain monitoring and alerting system.
         * Collect and aggregate blockchain data.
-        * Working with DEFI protocols (Aave, Compound, Euler etc).
+        * Working with DEFI protocols and APIs (Aave, Compound, Euler, 1INCH, Stargate etc).
         * Participate in dwh development.
+        * Create and maintance dashboards system.
+        * Writing strategies smart contracts to autocompaunding system
+        * Internal technical smart contracts audit
 
-    Key technology and skills: __Python3.10__, __Solidity__, __Web3__, __Airflow__, __Celery__, __Postgres__, __SQLAlchemy__, __Defi__, __Hardhat__
+    Key technology and skills: __Python3.10__, __Solidity__, __Web3__, __Airflow__, __Celery__, __Postgres__, __SQLAlchemy__, __Defi__, __Hardhat__, __Pandas__
 
 * ### __Senior Python developer in Marine Digital (part-time)__
 
