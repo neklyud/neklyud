@@ -11,7 +11,7 @@
 
 ## __Summary__
 
-Python developer with background in blockchain, machine learning and big data with over 4 years of expirience of development.
+Python developer with background in blockchain, machine learning and big data with over 5 years of expirience of development.
 
 ## __Experience__
 
@@ -19,12 +19,11 @@ Python developer with background in blockchain, machine learning and big data wi
 
     _October 2022 - Present - Remote_
 
-        * Development blockchain monitoring and alerting system.
-        * Collect and aggregate blockchain data.
+        * Developed ecosystem of smart contracts for investment into different defi protocols on EVM blockchains.
+        * Developed more than 30 strategies for providing liquidity and leverage in lending protocols.
+        * Developed blockchain monitoring and alerting system.
+        * Designed and developed monitoring and alerting system for defi ecosystem using Web3.
         * Working with DEFI protocols and APIs (Aave, Compound, Euler, 1INCH, Stargate etc).
-        * Participate in dwh development.
-        * Create and maintance dashboards system.
-        * Writing strategies smart contracts to autocompaunding system
         * Internal technical smart contracts audit
 
     Key technology and skills: __Python3.10__, __Solidity__, __Web3__, __Airflow__, __Celery__, __Postgres__, __SQLAlchemy__, __Defi__, __Hardhat__, __Pandas__
