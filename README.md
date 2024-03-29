@@ -26,7 +26,7 @@ Python developer with background in blockchain, machine learning and big data wi
         * Working with DEFI protocols and APIs (Aave, Compound, Euler, 1INCH, Stargate etc).
         * Internal technical smart contracts audit
 
-    Key technology and skills: __Python3.10__, __Solidity__, __Web3__, __Airflow__, __Celery__, __Postgres__, __SQLAlchemy__, __Defi__, __Hardhat__, __Pandas__
+    Key technology and skills: __Python__, __Solidity__, __Web3__, __Airflow__, __Celery__, __Postgres__, __SQLAlchemy__, __Defi__, __Hardhat__, __Pandas__
 
 * ### __Senior Python developer in Marine Digital (part-time)__
 
