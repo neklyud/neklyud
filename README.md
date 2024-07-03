@@ -1,6 +1,6 @@
 # __Semyon Neklyudov__
 
-## __Python developer / Backend developer / Web3 developer__ 
+## __Blockchain engineer__ 
 
 ## Contact Details
 
@@ -11,7 +11,7 @@
 
 ## __Summary__
 
-Python developer with background in blockchain, machine learning and big data with over 5 years of expirience of development.
+Blockchain engineer with background in Python, machine learning and big data with over 5 years of expirience of development.
 
 ## __Experience__
 
