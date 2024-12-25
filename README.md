@@ -15,7 +15,7 @@ Blockchain engineer with background in Python, machine learning and big data wit
 
 ## __Experience__
 
-* ### __Senior backend/blockchain developer with ShIFT AM__
+* ### __Senior backend/blockchain developer with NDA__
 
     _October 2022 - Present - Remote_
 
